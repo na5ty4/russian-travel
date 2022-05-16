@@ -4,5 +4,13 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
-    vertical-align: middle;
+    justify-self: end;
+}
+
+@media screen and (max-width: 767px ) {
+    .footer__copyright {
+        justify-self: stretch;
+        align-self: end;
+        margin-top: 16px;
+    }
 }
