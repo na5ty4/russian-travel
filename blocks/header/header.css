@@ -1,6 +1,6 @@
 .header {
-    display: flex; 
+    display: flex;
     position: relative;
-    flex-direction: row; 
-    justify-content: space-between; 
+    flex-direction: row;
+    justify-content: space-between;
 }
