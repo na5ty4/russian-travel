@@ -7,7 +7,7 @@
 
 @media screen and (min-width: 1025px) { 
     .places { 
-        max-width: 984px; 
+        max-width: 984px;
     } 
 }
 
@@ -30,38 +30,8 @@
 @media screen and (max-width: 515px) {
     .places {
         padding-left: 0;
-        padding-right: 0;  
-        margin-top: 64px;
-        margin-bottom: 66px;     
-    }
-}
-
-
-
-/*@media screen and (max-width: 1024px) {
-    .places {
-        padding-left: 48px;
-        padding-right: 48px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .places {
-        margin-top: 88px;
-        margin-bottom: 88px;
-        padding-left: 24px;
-        padding-right: 24px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .places {
-        margin-top: 64px;
-        margin-bottom: 64px;
-        padding-left: 0;
         padding-right: 0;
+        margin-top: 64px;
+        margin-bottom: 66px;
     }
 }
-
-*/
-
