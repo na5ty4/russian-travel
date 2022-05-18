@@ -7,8 +7,13 @@
 
 @media screen and (min-width: 1184px) {
     .lead {
-        margin-top: 48px;
         max-width: 984px;
+    }
+}
+
+@media screen and (max-width: 1183px) {
+    .lead {
+        margin-top: 48px;
     }
 }
 

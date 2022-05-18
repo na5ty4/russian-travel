@@ -1,0 +1,14 @@
+.footer__menu {
+    display: grid;
+    grid-template-columns: repeat(5,max-content);
+    align-items: center;
+    column-gap: 18px;
+}
+
+@media screen and (max-width: 767px ) {
+    .footer__menu {
+        grid-template-rows: repeat(5,max-content);
+        grid-template-columns: 1fr;
+        row-gap: 32px;
+    }
+}
